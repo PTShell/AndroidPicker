@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressPicker/AndroidPicker.AddressPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressPicker/AndroidPicker.AddressPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalendarPicker/AndroidPicker.CalendarPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/CalendarPicker/AndroidPicker.CalendarPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPicker/AndroidPicker.ColorPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPicker/AndroidPicker.ColorPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common/AndroidPicker.Common.iml" filepath="$PROJECT_DIR$/.idea/modules/Common/AndroidPicker.Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilePicker/AndroidPicker.FilePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/FilePicker/AndroidPicker.FilePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ImagePicker/AndroidPicker.ImagePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/ImagePicker/AndroidPicker.ImagePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WheelPicker/AndroidPicker.WheelPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/WheelPicker/AndroidPicker.WheelPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WheelView/AndroidPicker.WheelView.iml" filepath="$PROJECT_DIR$/.idea/modules/WheelView/AndroidPicker.WheelView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidPicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidPicker.app.iml" />
+    </modules>
+  </component>
+</project>
